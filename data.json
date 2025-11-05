@@ -1,7 +1,7 @@
 {
     "quizzes": [
         {
-            "title": "HTML",
+            "title": "HTML-Hypertext",
             "icon": "./assets/images/icon-html.svg",
             "questions": [
                 {
