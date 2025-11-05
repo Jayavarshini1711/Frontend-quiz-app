@@ -1,13 +1,13 @@
 {
     "quizzes": [
         {
-            "title": "HTML-Hypertext",
+            "title": "HTML",
             "icon": "./assets/images/icon-html.svg",
             "questions": [
                 {
                     "question": "What does HTML stand for?",
                     "options": [
-                        "Hyper Trainer Marking Language",
+                        "Hyper Trainer Markingg Language",
                         "Hyper Text Marketing Language",
                         "Hyper Text Markup Language",
                         "Hyper Text Markup Leveler"
